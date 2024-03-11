@@ -4,7 +4,6 @@ import mypack.FibonacciOrNot;
 public class Fibonacci{
     public static void main(String[] args){
         FibonacciOrNot myObj = new FibonacciOrNot();
-
         Scanner me = new Scanner(System.in);
         System.out.print("Please enter number : ");
         int n = me.nextInt();

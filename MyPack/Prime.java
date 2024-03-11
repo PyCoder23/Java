@@ -4,7 +4,6 @@ import mypac.PrimeOrNot;
 public class Prime{
     public static void main(String[] args){
         PrimeOrNot myObj = new PrimeOrNot();
-
         Scanner me = new Scanner(System.in);
         System.out.print("Please enter number : ");
         int n = me.nextInt();

@@ -10,7 +10,6 @@ public class PrimeOrNot {
         if (num%j == 0){
             pri = false;
         }
-
     }
     return pri;
   }

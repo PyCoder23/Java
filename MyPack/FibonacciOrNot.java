@@ -7,7 +7,6 @@ public class FibonacciOrNot {
     
     public boolean check(int num){
         boolean fib = false;
-
         int a = 1, b = 1, s = 0;
 
         while (s < num){
